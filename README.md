@@ -1,4 +1,4 @@
-# MacOS update
+# MacOSX update
 
 If you are stupid enough to forget the MacOSX software update, then this script is for you.
 macOSX update easy script
